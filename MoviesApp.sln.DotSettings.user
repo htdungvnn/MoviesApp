@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bdf7f3f2_002D46e4_002D469d_002Dba4e_002D8da6b3bfbad3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeleteTodoItemTests #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::40BC4ABA-2C37-460E-AC77-37F4E16A853A::net9.0::MoviesApp.Application.FunctionalTests.TodoItems.Commands.DeleteTodoItemTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=cd8f431e_002D3688_002D4422_002Db9da_002D0cc268a1fa14/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeleteTodoItemTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::40BC4ABA-2C37-460E-AC77-37F4E16A853A::net9.0::MoviesApp.Application.FunctionalTests.TodoItems.Commands.DeleteTodoItemTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
